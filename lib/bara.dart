@@ -1,3 +1,4 @@
 library bara;
 
-export 'src/same.dart';
+export 'src/formula/same.dart';
+export 'src/formula/pipe.dart';

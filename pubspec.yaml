@@ -1,8 +1,8 @@
 name: bara
 description: >-
-  Created For Creating!
+  Created For Creating! A reactive functional library for building declarative, initiative cross-platform application with built-in state management and flow control.
 homepage: https://github.com/bara-dart/bara.git
-version: 0.0.1
+version: 0.0.1-dev.1
 environment:
   sdk: ">=2.0.0-dev.61 <3.0.0"
 dev_dependencies:
