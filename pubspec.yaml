@@ -1,0 +1,10 @@
+name: bara
+description: >-
+  Created For Creating!
+homepage: https://github.com/bara-dart/bara.git
+version: 0.0.1
+environment:
+  sdk: ">=2.0.0-dev.61 <3.0.0"
+dev_dependencies:
+  path: ">=1.0.0 <2.0.0"
+  test: ">=1.2.0 <2.0.0"
